@@ -1,4 +1,5 @@
 package com.nebirid.greengram.ui.theme
+
 import androidx.compose.ui.graphics.Color
 
 val primaryLight = Color(0xFF6D5E0F)
@@ -216,10 +217,3 @@ val surfaceContainerLowDarkHighContrast = Color(0xFF1E1B13)
 val surfaceContainerDarkHighContrast = Color(0xFF222017)
 val surfaceContainerHighDarkHighContrast = Color(0xFF2D2A21)
 val surfaceContainerHighestDarkHighContrast = Color(0xFF38352B)
-
-
-
-
-
-
-
