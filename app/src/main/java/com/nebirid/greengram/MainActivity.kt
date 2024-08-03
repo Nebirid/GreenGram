@@ -1,4 +1,4 @@
-fgpackage com.nebirid.greengram
+package com.nebirid.greengram
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
