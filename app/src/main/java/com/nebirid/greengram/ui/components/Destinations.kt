@@ -24,4 +24,5 @@ val SettingsDestination = MainDestination(
     name = "Settings"
 )
 
-val destinations: List<MainDestination> = listOf(HomeDestination, SearchDestination, SettingsDestination)
+val destinations: List<MainDestination> =
+    listOf(HomeDestination, SearchDestination, SettingsDestination)
